@@ -1,0 +1,7 @@
+E:\C#练习\Git测试练习\FirstGit\FirstGit\bin\Debug\FirstGit.exe.config
+E:\C#练习\Git测试练习\FirstGit\FirstGit\bin\Debug\FirstGit.exe
+E:\C#练习\Git测试练习\FirstGit\FirstGit\bin\Debug\FirstGit.pdb
+E:\C#练习\Git测试练习\FirstGit\FirstGit\obj\Debug\FirstGit.csproj.AssemblyReference.cache
+E:\C#练习\Git测试练习\FirstGit\FirstGit\obj\Debug\FirstGit.csproj.CoreCompileInputs.cache
+E:\C#练习\Git测试练习\FirstGit\FirstGit\obj\Debug\FirstGit.exe
+E:\C#练习\Git测试练习\FirstGit\FirstGit\obj\Debug\FirstGit.pdb
